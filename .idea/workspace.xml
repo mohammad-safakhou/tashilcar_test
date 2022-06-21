@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66e8d0a6-c626-44a5-b08f-54754a5db422" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="2AsLOqj8YMzjYp2E79eWIA6XtPi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmd" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmd" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1002" y="455" width="615" height="411" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1655795920226">
+      <screen x="72" y="27" width="2486" height="1261" />
+    </state>
+    <state x="1002" y="455" width="615" height="411" key="#com.intellij.fileTypes.FileTypeChooser/72.27.2486.1261@72.27.2486.1261" timestamp="1655795920226" />
+    <state x="1098" y="415" width="424" height="491" key="FileChooserDialogImpl" timestamp="1655793463393">
+      <screen x="72" y="27" width="2486" height="1261" />
+    </state>
+    <state x="1098" y="415" width="424" height="491" key="FileChooserDialogImpl/72.27.2486.1261@72.27.2486.1261" timestamp="1655793463393" />
+    <state x="804" y="292" width="1022" height="737" key="SettingsEditor" timestamp="1655793659462">
+      <screen x="72" y="27" width="2486" height="1261" />
+    </state>
+    <state x="804" y="292" width="1022" height="737" key="SettingsEditor/72.27.2486.1261@72.27.2486.1261" timestamp="1655793659462" />
+  </component>
+</project>
